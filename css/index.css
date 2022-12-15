@@ -1,0 +1,17 @@
+#kvadrat{
+    height: 100px;
+    width: 100px;
+    background-color:transparent;
+    float: left;
+    
+   
+}
+
+.kenan{
+    padding: 30px;
+    width: 100%;
+   float: left;
+    background-image:url(https://html5book.ru/wp-content/uploads/2015/05/svetlye_fony.jpg) ;
+    
+   
+}
